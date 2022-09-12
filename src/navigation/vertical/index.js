@@ -26,35 +26,30 @@ function processMenu() {
   if (isTestnet()) {
     chainMenus.push({
       title: 'Mainnet Explorer',
-      href: 'https://ping.pub',
+      href: 'https://explorer.nodestake.top',
       icon: 'ChromeIcon',
     })
   } else {
     chainMenus.push({
-      title: 'Testnet Explorer',
-      href: 'http://testnet.ping.pub',
+      title: 'Website',
+      href: 'http://nodestake.top',
       icon: 'LifeBuoyIcon',
     })
   }
   chainMenus.push({
-    title: 'Github',
-    href: 'https://github.com/ping-pub/explorer',
-    icon: 'GithubIcon',
-  })
-  chainMenus.push({
     title: 'Discord',
-    href: 'https://discord.gg/CmjYVSr6GW',
+    href: 'https://discord.gg/puGTkXvkE8',
     icon: 'EyeIcon',
   })
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/ping_pub',
+    href: 'https://twitter.com/Nodestake_top',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
-    title: 'Telegram',
-    href: 'https://t.me/pingpub',
-    icon: 'SendIcon',
+    title: 'Github',
+    href: 'https://github.com/nodestake/explorer',
+    icon: 'GithubIcon',
   })
 
   return chainMenus
