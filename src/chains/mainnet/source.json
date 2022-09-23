@@ -4,7 +4,7 @@
     "rpc": ["https://testnet.sourceprotocol.io:26657","https://rpc-t.source.nodestake.top"],
     "snapshot_provider": "",
     "sdk_version": "0.45.1",
-    "coin_type": "505",
+    "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "source",
     "logo": "/logos/source.jpg",
