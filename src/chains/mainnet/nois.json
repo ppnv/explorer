@@ -5,7 +5,7 @@
     "http://node-0.noislabs.com:1317",
     "http://node-1.noislabs.com:1317",
     "http://node-2.noislabs.com:1317",
-    "http://node-3.noislabs.com:1317",
+    "http://node-3.noislabs.com:1317"
   ],
   "rpc": [
     "https://rpc-t.nois.nodestake.top",
