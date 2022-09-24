@@ -1,18 +1,18 @@
 {
   "chain_name": "nois-testnet",
   "api": [
+    "https://api-t.nois.nodestake.top",
     "http://node-0.noislabs.com:1317",
     "http://node-1.noislabs.com:1317",
     "http://node-2.noislabs.com:1317",
     "http://node-3.noislabs.com:1317",
-    "https://api-t.nois.nodestake.top"
   ],
   "rpc": [
+    "https://rpc-t.nois.nodestake.top",
     "http://node-0.noislabs.com:26657",
     "http://node-1.noislabs.com:26657",
     "http://node-2.noislabs.com:26657",
-    "http://node-3.noislabs.com:26657",
-    "https://rpc-t.nois.nodestake.top"
+    "http://node-3.noislabs.com:26657"
   ],
   "sdk_version": "0.45.5",
   "coin_type": "118",
