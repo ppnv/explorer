@@ -1,0 +1,18 @@
+{
+    "chain_name": "terp-testnet",
+    "api": ["https://api-t.terp.nodestake.top","https://terp-api.skynetvalidators.com"],
+    "rpc": ["https://rpc-t.terp.nodestake.top","https://terp-rpc.skynetvalidators.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.6",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "terp",
+    "logo": "/logos/terp.jpg",
+    "assets": [{
+        "base": "uterpx",
+        "symbol": "TERPX",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/terp.jpg"
+    }]
+}
