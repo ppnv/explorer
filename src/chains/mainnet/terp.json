@@ -14,5 +14,12 @@
         "exponent": "6",
         "coingecko_id": "",
         "logo": "/logos/terp.jpg"
+    },
+    {
+        "base": "upersyx",
+        "symbol": "PERSYX",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/chronic-token.jpg"
     }]
 }
