@@ -1,7 +1,7 @@
 {
-    "chain_name": "teritori-testnet",
-    "api": "https://api-t.teritori.nodestake.top",
-    "rpc": "https://rpc-t.teritori.nodestake.top",
+    "chain_name": "teritori",
+    "api": "https://api.teritori.nodestake.top",
+    "rpc": "https://rpc.teritori.nodestake.top",
     "snapshot_provider": "",
     "sdk_version": "0.45.4",
     "coin_type": "118",
@@ -12,7 +12,7 @@
         "base": "utori",
         "symbol": "TORI",
         "exponent": "6",
-        "coingecko_id": "teritori-testnet-v2",
-        "logo": "/logos/strid.png"
+        "coingecko_id": "",
+        "logo": "/logos/teritori.jpg"
     }]
 }
