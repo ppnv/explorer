@@ -6,14 +6,14 @@
         class="ml-25 font-weight-bolder"
         href="#"
         target="_blank"
-      >NodeStake</b-link>
+      >PPNV Service</b-link>
     </span>
 
     <router-link
       v-ripple.400="'rgba(113, 102, 240, 0.15)'"
       class="float-md-right"
       to="/coffee"
-    >Buy me a cup of coffee.
+    >Donate
       <span
         v-ripple.400="'rgba(113, 102, 240, 0.15)'"
         variant="outline-primary"
