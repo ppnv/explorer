@@ -19,7 +19,7 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://ping.pub/logo.svg',
+      icon: '/logo.svg',
     })
   }
   chainMenus.push({ header: 'LINKS' })
@@ -32,23 +32,23 @@ function processMenu() {
   } else {
     chainMenus.push({
       title: 'Website',
-      href: 'http://nodestake.top',
+      href: 'http://ppnv.space',
       icon: 'LifeBuoyIcon',
     })
   }
   chainMenus.push({
     title: 'Discord',
-    href: 'https://discord.gg/puGTkXvkE8',
+    href: 'https://discord.gg',
     icon: 'EyeIcon',
   })
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/Nodestake_top',
+    href: 'https://twitter.com/ppnv_space',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/nodestake/explorer',
+    href: 'https://github.com/sergiomateiko',
     icon: 'GithubIcon',
   })
 
