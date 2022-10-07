@@ -2,7 +2,7 @@
   <div>
     <b-card
       v-if="pingVals && pingVals.length > 0"
-      title="❤️ Stake with NodeStake ❤️"
+      title="❤️ Stake with PPNV Service ❤️"
       class="overflow-auto"
     >
       <b-table
