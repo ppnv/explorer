@@ -38,12 +38,12 @@ function processMenu() {
   }
   chainMenus.push({
     title: 'Discord',
-    href: 'https://discord.gg',
+    href: 'https://discordapp.com/users/400556753059708929/',
     icon: 'EyeIcon',
   })
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/ppnv_space',
+    href: 'https://twitter.com/ppnv_service',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
