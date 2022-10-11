@@ -63,7 +63,7 @@ import {
 } from '@/libs/utils'
 
 export default {
-  name: 'Donate',
+  name: 'coffee',
   components: {
     BButton,
     BCol,
