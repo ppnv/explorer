@@ -8,8 +8,8 @@
     y="0px"
     width="100px"
     height="100px"
-    viewBox="0 0 60 60"
-    enable-background="new 0 0 50 50"
+    viewBox="0 0 120 120"
+    enable-background="new 0 0 120 120"
     xml:space="preserve"
   >  <image
     id="image0"
