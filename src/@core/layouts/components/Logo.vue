@@ -4,7 +4,7 @@
     version="1.1"
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    x="0px"
+    x="-20px"
     y="0px"
     width="100px"
     height="100px"
