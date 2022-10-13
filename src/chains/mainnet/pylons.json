@@ -7,7 +7,7 @@
     "sdk_version": "0.45.6",
     "coin_type": "60",
     "min_tx_fee": "3000000000000000",
-    "addr_prefix": "pylons",
+    "addr_prefix": "pylonsd",
     "logo": "/logo/pylons.jpg",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "assets": [{
