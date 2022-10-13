@@ -8,13 +8,13 @@
     "coin_type": "60",
     "min_tx_fee": "3000000000000000",
     "addr_prefix": "pylons",
-    "logo": "/logos/pylons.jpg",
+    "logo": "/logo/pylons.jpg",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "assets": [{
         "base": "UBEDROCK",
         "symbol": "BEDROCK",
         "exponent": "18",
         "coingecko_id": "",
-        "logo": "/logos/pylons.jpg"
+        "logo": "/logo/pylons.jpg"
     }]
 }
