@@ -1,8 +1,8 @@
 {
     "chain_name": "DWS",
     "coingecko": "",
-    "api": "http://138.201.141.76:444",
-    "rpc": "http://138.201.141.76:60957",
+    "api": "http://65.109.53.53:444",
+    "rpc": "http://65.109.53.53:60957",
     "snapshot_provider": "",
     "sdk_version": "0.44.3",
     "coin_type": "118",
