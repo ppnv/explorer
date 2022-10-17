@@ -1,7 +1,7 @@
 {
     "chain_name": "DWS",
     "coingecko": "",
-    "api": "https://api.dws.ppnv.space:444",
+    "api": "https://api.dws.ppnv.space",
     "rpc": "",
     "snapshot_provider": "",
     "sdk_version": "0.44.3",
