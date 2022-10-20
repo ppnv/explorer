@@ -1,5 +1,5 @@
 {
-    "chain_name": "ollo-testnet",
+    "chain_name": "ollo",
     "api": "https://api.ollo.ppnv.space",
     "rpc": "",
     "snapshot_provider": "",
