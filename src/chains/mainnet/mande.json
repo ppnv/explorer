@@ -6,7 +6,7 @@
     "sdk_version": "0.45.6",
     "coin_type": "118",
     "min_tx_fee": "5000",
-    "addr_prefix": "cred",
+    "addr_prefix": "mande",
     "logo": "/logos/mand.png",
     "assets": [{
         "base": "cred",
