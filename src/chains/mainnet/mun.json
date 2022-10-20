@@ -1,5 +1,5 @@
 {
-    "chain_name": "mun-testnet",
+    "chain_name": "mun",
     "api": "https://api.mun.ppnv.space",
     "rpc": "",
     "snapshot_provider": "",
