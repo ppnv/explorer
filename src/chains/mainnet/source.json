@@ -1,0 +1,18 @@
+{
+    "chain_name": "source",
+    "api": "https://api.source.ppnv.space",
+    "rpc": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.45.1",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "source",
+    "logo": "/logo/source.png",
+    "assets": [{
+        "base": "usource",
+        "symbol": "SOURCE",
+        "exponent": "6",
+        "coingecko_id": "source-protocol",
+        "logo": "/logo/source.png"
+    }]
+}
