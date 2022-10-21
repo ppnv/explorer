@@ -1,7 +1,7 @@
 {
     "chain_name": "pylons",
-    "api": ["https://138.201.141.76:1317"], 
-    "rpc": ["https://138.201.141.76:36657"],
+    "api": "https://api.pylons.ppnv.space", 
+    "rpc": "",
     "sdk_version": "0.46.1",
     "coin_type": "118",
     "min_tx_fee": "800",
