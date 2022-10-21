@@ -1,0 +1,18 @@
+{
+    "chain_name": "okp4",
+    "api": "https://api.okp.ppnv.space",
+    "rpc": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.45.6",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "okp4",
+    "logo": "/logo/okp4.png",
+    "assets": [{
+        "base": "uknow",
+        "symbol": "KNOW",
+        "exponent": "6",
+        "coingecko_id": "okp4",
+        "logo": "/logo/okp4.png"
+    }]
+}
