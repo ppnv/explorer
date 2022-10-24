@@ -7,12 +7,12 @@
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "Cardchain",
-    "logo": "/logo/CROWDCONTROL.png",
+    "logo": "/logos/CROWDCONTROL.png",
     "assets": [{
         "base": "ubpf",
         "symbol": "BPF",
         "exponent": "6",
         "coingecko_id": "crowd",
-        "logo": "/logo/CROWDCONTROL.png"
+        "logo": "/logos/CROWDCONTROL.png"
     }]
 }
