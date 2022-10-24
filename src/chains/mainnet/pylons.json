@@ -10,8 +10,8 @@
         "symbol": "BEDROCK",
         "exponent": "6",
         "coingecko_id": "pylons", 
-        "logo": "/logo/pylons.png"
+        "logo": "/logos/pylons.png"
     }],
     "addr_prefix": "pylonsd",
-    "logo": "/logo/pylons.png"
+    "logo": "/logos/pylons.png"
 }
