@@ -7,12 +7,12 @@
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "mande",
-    "logo": "/logo/mand.png",
+    "logo": "/logos/mand.png",
     "assets": [{
         "base": "cred",
         "symbol": "CRED",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logo/mand.png"
+        "logo": "/logos/mand.png"
     }]
 }
