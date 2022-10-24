@@ -6,13 +6,13 @@
   "coin_type": "118",
   "addr_prefix": "nois",
   "min_tx_fee": "5000",
-  "logo": "/logos/nois.png",
+  "logo": "/logos/Nois.png",
   "assets": [
     {
       "symbol": "NOIS",
       "base": "unois",
       "exponent": 6,
-      "logo": "/logos/nois.png"
+      "logo": "/logos/Nois.png"
     }
   ]
 }
