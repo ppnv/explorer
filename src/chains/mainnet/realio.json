@@ -8,13 +8,13 @@
     "coin_type": "60",
     "min_tx_fee": "3000000000000000",
     "addr_prefix": "realio",
-    "logo": "/logo/DjKNzguF_400x400.jpg",
+    "logo": "/logos/DjKNzguF_400x400.jpg",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "assets": [{
         "base": "ario",
         "symbol": "RIO",
         "exponent": "18",
         "coingecko_id": "",
-        "logo": "/logo/DjKNzguF_400x400.jpg"
+        "logo": "/logos/DjKNzguF_400x400.jpg"
     }]
 }
