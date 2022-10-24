@@ -1,6 +1,6 @@
 {
     "chain_name": "Lambda",
-    "api": "api.lambda.ppnv.space",
+    "api": "https://api.lambda.ppnv.space",
     "rpc": "",
     "snapshot_provider": "",
     "sdk_version": "0.45.6",
