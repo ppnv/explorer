@@ -7,12 +7,12 @@
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "okp4",
-    "logo": "/logo/okp4.png",
+    "logo": "/logos/GK12zUWJ_400x400.jpg",
     "assets": [{
         "base": "uknow",
         "symbol": "KNOW",
         "exponent": "6",
         "coingecko_id": "okp4",
-        "logo": "/logo/okp4.png"
+        "logo": "/logos/GK12zUWJ_400x400.jpg"
     }]
 }
