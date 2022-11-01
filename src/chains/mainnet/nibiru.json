@@ -16,7 +16,7 @@
       "symbol": "NIBI",
       "exponent": "6",
       "coingecko_id": "",
-      "logo": "/logos/OyWtRrNP_400x400.jpg.jpg"
+      "logo": "/logos/OyWtRrNP_400x400.jpg"
     },
     {
       "base": "unusd",
@@ -27,5 +27,5 @@
     }
   ],
   "addr_prefix": "nibi",
-  "logo": "/logos/OyWtRrNP_400x400.jpg.jpg"
+  "logo": "/logos/OyWtRrNP_400x400.jpg"
 }
