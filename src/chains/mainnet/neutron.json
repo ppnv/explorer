@@ -1,9 +1,9 @@
 {
     "chain_name": "Neutron",
     "coingecko": "",
-    "api": ["https://api-t.neutron.nodestake.top"
+    "api": ["https://api.neutron.ppnv.space"
            ],
-    "rpc": ["https://rpc-t.neutron.nodestake.top"
+    "rpc": ["http://rpc.neutron.ppnv.space:11657"
            ],
     "snapshot_provider": "",
     "sdk_version": "0.46.1",
