@@ -1,20 +1,15 @@
 {
     "chain_name": "realio",
-    "coingecko": "",
-    "api": "https://api.realio.ppnv.space",
-    "rpc": "",
-    "snapshot_provider": "",
-    "sdk_version": "0.45.6",
-    "coin_type": "60",
-    "min_tx_fee": "3000000000000000",
+    "api": ["https://api.realio.ppnv.space"],
+    "rpc": [""],
+    "coin_type": "118",
+    "min_tx_fee": "200",
     "addr_prefix": "realio",
     "logo": "/logos/DjKNzguF_400x400.jpg",
-    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "assets": [{
         "base": "ario",
         "symbol": "RIO",
-        "exponent": "18",
-        "coingecko_id": "",
+        "exponent": "6",
         "logo": "/logos/DjKNzguF_400x400.jpg"
     }]
 }
