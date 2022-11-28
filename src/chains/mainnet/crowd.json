@@ -12,7 +12,7 @@
         "base": "ubpf",
         "symbol": "BPF",
         "exponent": "6",
-        "coingecko_id": "crowd",
+        "coingecko_id": "",
         "logo": "/logos/CROWDCONTROL.png"
     }]
 }
