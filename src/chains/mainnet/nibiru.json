@@ -4,7 +4,7 @@
     "https://api.nibiru.ppnv.space"
   ],
   "rpc":[
-    "rpc.nibiru.ppnv.space:10657"
+    "rpc.nibiru.ppnv.space:27657"
   ],
   "snapshot_provider": "",
   "sdk_version": "0.46.0",
