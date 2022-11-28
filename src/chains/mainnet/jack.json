@@ -2,7 +2,7 @@
     "chain_name": "jackal",
     "coingecko": "jackal",
     "api": "https://api.jackal.ppnv.space",
-    "rpc": "http://rpc.jackal.ppnv.space:07657",
+    "rpc": "http://rpc.jackal.ppnv.space:10657",
     "coin_type": "118",
     "sdk_version": "0.45.9",
     "addr_prefix": "jkl", 
