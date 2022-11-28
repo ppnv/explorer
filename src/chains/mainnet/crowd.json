@@ -1,18 +1,15 @@
 {
     "chain_name": "crowd",
-    "api": "https://api.crowd.ppnv.space",
-    "rpc": "",
-    "snapshot_provider": "",
-    "sdk_version": "0.44.5",
+    "api": ["https://api.crowd.ppnv.space"],
+    "rpc": [""],
     "coin_type": "118",
-    "min_tx_fee": "5000",
+    "min_tx_fee": "200",
     "addr_prefix": "Cardchain",
     "logo": "/logos/CROWDCONTROL.png",
     "assets": [{
         "base": "ubpf",
         "symbol": "BPF",
         "exponent": "6",
-        "coingecko_id": "",
         "logo": "/logos/CROWDCONTROL.png"
     }]
 }
