@@ -1,10 +1,8 @@
 {
     "chain_name": "Neutron",
     "coingecko": "",
-    "api": ["https://api.neutron.ppnv.space"
-           ],
-    "rpc": ["http://rpc.neutron.ppnv.space:11657"
-           ],
+    "api": ["https://api.neutron.ppnv.space"],
+    "rpc": ["http://rpc.neutron.ppnv.space:13657"],
     "snapshot_provider": "",
     "sdk_version": "0.46.1",
     "coin_type": "118",
