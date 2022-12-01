@@ -12,7 +12,7 @@
         "base": "usource",
         "symbol": "SOURCE",
         "exponent": "6",
-        "coingecko_id": "source-protocol",
+        "coingecko_id": "",
         "logo": "/logos/source.png"
     }]
 }
