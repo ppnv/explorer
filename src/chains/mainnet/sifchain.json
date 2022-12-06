@@ -1,5 +1,5 @@
 {
-    "chain_name": "sifchain-mainnet",
+    "chain_name": "sifchain",
     "api": ["https://api.sifnode.ppnv.space"],
     "rpc": [""],
     "coin_type": "118",
