@@ -1,0 +1,15 @@
+{
+    "chain_name": "provenance",
+    "api": ["api.provenance.ppnv.space"],
+    "rpc": [""],
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "has",
+    "logo": "/logos/W2HPCAxw_400x400.jpg",
+    "assets": [{
+        "base": "nhash",
+        "symbol": "HAS",
+        "exponent": "6",
+        "logo": "/logos/W2HPCAxw_400x400.jpg"
+    }]
+}
