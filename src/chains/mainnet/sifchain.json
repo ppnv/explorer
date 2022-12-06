@@ -1,0 +1,15 @@
+{
+    "chain_name": "sifchain-mainnet",
+    "api": ["https://api.sifnode.ppnv.space"],
+    "rpc": [""],
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "rowan",
+    "logo": "/logos/channels4_profile.jpg",
+    "assets": [{
+        "base": "rowan",
+        "symbol": "rowan",
+        "exponent": "6",
+        "logo": "/logos/channels4_profile.jpg"
+    }]
+}
