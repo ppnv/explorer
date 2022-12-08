@@ -1,10 +1,10 @@
 {
     "chain_name": "jackal",
-    "coingecko": "jackal",
+    "coingecko": "jackal_protocol",
     "api": "https://api.jackal.ppnv.space",
     "rpc": "http://rpc.jackal.ppnv.space:10657",
     "coin_type": "118",
-    "sdk_version": "0.45.9",
+    "sdk_version": "0.45.10",
     "addr_prefix": "jkl", 
     "logo": "/logos/jackal.png",
     "assets": [{
