@@ -1,6 +1,6 @@
 {
     "chain_name": "Konstellation",
-    "api": ["https://api.knstld.ppnv.spacem"],
+    "api": ["https://api.knstld.ppnv.space"],
     "rpc": [""],
     "coin_type": "118",
     "min_tx_fee": "200",
