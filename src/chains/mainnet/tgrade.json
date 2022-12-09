@@ -1,6 +1,6 @@
 {
     "chain_name": "tgrade",
-    "api": ["https://api.tgrade.ppnv.space/"],
+    "api": ["https://api.tgrade.ppnv.space"],
     "rpc": [""],
     "coin_type": "118",
     "min_tx_fee": "200",
