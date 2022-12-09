@@ -14,7 +14,7 @@
     "assets": [{
         "base": "ario",
         "symbol": "RIO",
-        "exponent": "18",
+        "exponent": "24",
         "coingecko_id": "",
         "logo": "/logos/DjKNzguF_400x400.jpg"
     }]
