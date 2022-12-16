@@ -1,7 +1,7 @@
 {
     "chain_name": "Lambda",
     "api": "https://api.lambda.ppnv.space",
-    "rpc": "",
+    "rpc": "http://rpc.lambda.ppnv.space:11657",
     "snapshot_provider": "",
     "sdk_version": "0.45.6",
     "coin_type": "60",
