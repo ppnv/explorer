@@ -2,7 +2,7 @@
     "chain_name": "canto",
     "coingecko": "",
     "api": ["https://api.canto.ppnv.space"],
-    "rpc": [""],
+    "rpc": ["http://rpc.canto.ppnv.space:23657"],
     "snapshot_provider": "",
     "sdk_version": "0.45.6",
     "coin_type": 60,
