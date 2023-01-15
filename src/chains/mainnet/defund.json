@@ -1,7 +1,7 @@
 {
     "chain_name": "Defund",
     "coingecko": "",
-    "api": ["https://api.defund.ppnv.space],
+    "api": ["https://api.defund.ppnv.space"],
     "rpc": ["http://rpc.defund.ppnv.space:42657"],
     "snapshot_provider": "",
     "sdk_version": "0.45.10",
