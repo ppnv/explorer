@@ -1,6 +1,6 @@
 {
     "chain_name": "paloma-main",
-    "api": "https://api.paloma.main.ppnv.space",
+    "api": "https://paloma-api.acloud.pp.ua",
     "rpc": "",
     "snapshot_provider": "",
     "sdk_version": "0.45.6",
