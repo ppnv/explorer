@@ -1,7 +1,7 @@
 {
     "chain_name": "paloma",
-    "api": "https://paloma-api.acloud.pp.ua",
-    "rpc": "",
+    "api": "https://api.paloma.ppnv.space",
+    "rpc": "http://rpc.paloma.ppnv.space:21657",
     "snapshot_provider": "",
     "sdk_version": "0.45.6",
     "coin_type": 118,
