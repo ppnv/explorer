@@ -1,5 +1,5 @@
 {
-    "chain_name": "paloma-main",
+    "chain_name": "paloma",
     "api": "https://paloma-api.acloud.pp.ua",
     "rpc": "",
     "snapshot_provider": "",
