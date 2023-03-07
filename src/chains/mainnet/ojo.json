@@ -1,0 +1,20 @@
+{
+  "chain_name": "ojo",
+  "coingecko": "",
+  "api": "https://api.ojo.ppnv.space",
+  "rpc": "http://rpc.ojo.ppnv.space:47657",
+  "sdk_version": "0.46.1",
+  "coin_type": 118,
+  "min_tx_fee": 8000,
+  "addr_prefix": "ojo1",
+  "logo": "/logos/ojo.jpg",
+  "assets": [
+    {
+      "base": "uojo",
+      "symbol": "ojo",
+      "exponent": 6,
+      "coingecko_id": "",
+      "logo": "/logos/ojo.jpg"
+    }
+  ]
+}
