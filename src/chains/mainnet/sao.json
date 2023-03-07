@@ -1,0 +1,20 @@
+{
+  "chain_name": "sao",
+  "coingecko": "",
+  "api": "https://api.sao.ppnv.space",
+  "rpc": "http://rpc.sao.ppnv.space:49657",
+  "sdk_version": "0.46.1",
+  "coin_type": 118,
+  "min_tx_fee": 8000,
+  "addr_prefix": "sao",
+  "logo": "/logos/sao.jpg",
+  "assets": [
+    {
+      "base": "sao",
+      "symbol": "sao",
+      "exponent": 6,
+      "coingecko_id": "",
+      "logo": "/logos/sao.jpg"
+    }
+  ]
+}
