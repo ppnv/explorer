@@ -42,13 +42,18 @@ function processMenu() {
     icon: 'EyeIcon',
   })
   chainMenus.push({
+    title: 'Telegram',
+    href: 'https://t.me/ppnv_service',
+    icon: 'EyeIcon',
+  })
+  chainMenus.push({
     title: 'Twitter',
     href: 'https://twitter.com/ppnv_service',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/sergiomateiko',
+    href: 'https://github.com/ppnv',
     icon: 'GithubIcon',
   })
 
